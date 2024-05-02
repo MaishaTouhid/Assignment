@@ -9,7 +9,7 @@ public class Main {
         System.out.println();
         person.setAge(27);
         person.setName("Maisha");
-
+        System.out.println("Output:");
         System.out.println("Name: " + person.getName());
         System.out.println("Age: " + person.getAge());
     }
